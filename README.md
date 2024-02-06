@@ -18,4 +18,3 @@ This database contains substances and information on their vapor pressure and bo
 
 **Vocabulary Mapping**:
 Database containing the vocabulary that describes fragrance notes used in the training of the GGNN model (Scrapped from the Good Scents Company) and the equivalent words used in the Parfumo forum.
-# Feedback-Generation
