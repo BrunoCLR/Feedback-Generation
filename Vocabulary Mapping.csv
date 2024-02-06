@@ -1,0 +1,113 @@
+,GoodScents Vocab,Parfumo Vocab
+0,alcohol,['']
+1,aldehyd,['Aldehydes']
+2,almond,['']
+3,amber,['Amber']
+4,anim,"['Ambergris', 'Castoreum', 'Civet', 'Hyraceum', 'Leather', 'Skin']"
+5,anis,['']
+6,appl,['Apple']
+7,apricot,['Peach']
+8,aromat,['']
+9,bakeri,['']
+10,balsam,"['Cistus', 'Cypress', 'Elemi resin', 'Frankincense', 'Galbanum', 'Labdanum', 'Styrax']"
+11,banana,['']
+12,bergamot,['Bergamot']
+13,berri,"['Raspberry', 'Juniper berry', 'Blackcurrant']"
+14,beverag,['']
+15,bitter,"['Bitter orange', 'Petitgrain', 'Neroli']"
+16,brown,"['Caramel', 'Tonka bean', 'Vetiver']"
+17,burnt,"['Tobacco', 'Clary sage']"
+18,butter,
+19,camphor,
+20,caramel,['Caramel']
+21,cedar,"['Cedar', 'Cedarwood', 'Virginia cedar']"
+22,chees,['']
+23,chemic,
+24,cherri,['']
+25,chocol,['']
+26,cinnamon,['Cinnamon']
+27,citrus,"['Citrus notes', 'Bergamot', 'Lemon', 'Lime', 'Orange', 'Orange blossom', 'Bitter orange', 'Mandarin orange']"
+28,clean,['']
+29,cocoa,['']
+30,coconut,['Coconut']
+31,coffe,['']
+32,cognac,['']
+33,cool,"['Mint', 'Marine notes']"
+34,cortex,['']
+35,coumarin,"['Green notes', '']"
+36,creami,"['Benzoin', 'Caramel', 'Bourbon vanilla', 'Vanilla']"
+37,cucumb,['']
+38,dairi,['']
+39,earthi,"['Patchouli', 'Moss', 'Oakmoss']"
+40,ether,['']
+41,fatti,['']
+42,ferment,['']
+43,floral,"['Bulgarian rose', 'Cyclamen', 'Floral notes', 'Freesia', 'Gardenia', 'Geranium', 'Heliotrope', 'Hyacinth', 'Iris', 'Jasmine', 'Jasmine sambac', 'Lavender', 'Lily', 'Lily of the valley', 'Magnolia', 'Mimosa', 'Orchid', 'Osmanthus', 'Peony', 'Violet', 'Ylang-ylang']"
+44,flower,"['Bulgarian rose', 'Cyclamen', 'Floral notes', 'Freesia', 'Gardenia', 'Geranium', 'Heliotrope', 'Hyacinth', 'Iris', 'Jasmine', 'Jasmine sambac', 'Lavender', 'Lily', 'Lily of the valley', 'Magnolia', 'Mimosa', 'Orchid', 'Osmanthus', 'Peony', 'Violet', 'Ylang-ylang']"
+45,fresh,"['Mint', 'Marine notes']"
+46,fruiti,"['Apple', 'Bergamot', 'Bitter orange', 'Blackcurrant', 'Citrus notes', 'Coconut', 'Grapefruit', 'Juniper berry', 'Lemon', 'Lime', 'Mandarin orange', 'Orange', 'Orange blossom', 'Pear', 'Pineapple', 'Plum', '']"
+47,gardenia,['Gardenia']
+48,geranium,['Geranium']
+49,gerard,['']
+50,grape,['']
+51,grassi,"['Green notes', 'Violet leaf', 'Sage']"
+52,green,['Green notes']
+53,herbal,"['Basil', 'Green notes', 'Violet leaf', 'Sage', 'Clary sage', 'Rosemary']"
+54,honey,['Honey']
+55,hyacinth,['Hyacinth']
+56,jasmin,"['Jasmine', 'Jasmine sambac']"
+57,juici,['']
+58,lacton,['']
+59,lavend,['Lavender']
+60,leaf,['Violet leaf']
+61,leather,['Leather']
+62,lemon,['Lemon']
+63,lilac,"['Rose', 'Violet']"
+64,lili,"['Lily', 'Lily of the valley']"
+65,lime,['Lime']
+66,meat,['']
+67,medicin,['Myrrh']
+68,melon,['']
+69,metal,['']
+70,milki,['']
+71,mint,['Mint']
+72,muguet,['Lily of the valley']
+73,mushroom,['']
+74,musk,['Musk']
+75,musti,['']
+76,natur,['']
+77,neroli,['Neroli']
+78,nutti,['Tonka bean']
+79,oili,['']
+80,orang,"['Orange', 'Orange blossom', 'Petitgrain', 'Bitter orange', 'Mandarin orange']"
+81,orri,['']
+82,ozon,['']
+83,peach,['Peach']
+84,pear,['Pear']
+85,phenol,['']
+86,pine,['Cypress']
+87,pineappl,['Pineapple']
+88,plum,['Plum']
+89,powderi,['']
+90,pungent,['']
+91,raspberri,['Raspberry']
+92,ripe,['']
+93,roast,['']
+94,rose,['Rose']
+95,sharp,['']
+96,soapi,['Aldehydes']
+97,spice,"['Cardamom', 'Carnation', 'Clove', 'Coriander', 'Ginger', 'Nutmeg', 'Pepper', 'Pink pepper', 'Saffron', 'Spices']"
+98,strawberri,['']
+99,sulfur,['']
+100,terpen,['']
+101,tobacco,['Tobacco']
+102,tropic,['Tuberose']
+103,vanilla,['Vanilla']
+104,veget,['']
+105,vetiv,['Vetiver']
+106,violet,['Violet']
+107,warm,['']
+108,waxi,['']
+109,weedi,['']
+110,wine,['']
+111,woodi,"['Cashmere wood', 'Cedarwood', 'Gaiac wood', 'Oud', 'Rosewood', 'Sandalwood', 'Woods', 'Woody notes']"
